@@ -7,3 +7,23 @@ If you need to know whether system is 32- or 64- bit, type "uname -m" in bash
 
 - Initialize git: "git init"
 
+- Try "git status" to figure out which files git knows exist
+
+- Now, add file to staging environment by running
+"git add [filename]"
+
+- Try "git status" again to see what's changed!
+
+- Commit the file: sudo git commit -m "[useful comments describing what's changed]"
+
+- Now that that's done. Go to github, create your account, and create a repo.
+
+- If you want to create a new branch, run
+"git checkout -b [branch name]" Then do git branch to see the hierarchy
+
+- In Github, while you created the repo, copy the HTTPS link. 
+Back to terminal. Run "git remote add origin [HTTPS link to repo]"
+
+- "git push -u origin master" to push to the repo. Or replace "master" by the name of the branch you created and want to add to the repo.
+
+- Boom, done! Visit github to admire your new repo with a file in it. 
