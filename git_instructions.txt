@@ -1,0 +1,9 @@
+Using Git!
+
+- Make sure Git is downloaded. https://git-scm.com/downloads
+If you need to know whether system is 32- or 64- bit, type "uname -m" in bash
+
+- Open terminal in directory. 
+
+- Initialize git: "git init"
+
