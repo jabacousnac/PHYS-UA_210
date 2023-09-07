@@ -30,3 +30,6 @@ You will have to put your github username and password (it may be the token, whi
 - Boom, done! Visit github to admire your new repo with a file in it. 
 
 - Say you made some changes to the file, and want to add a new version: add it to staging environment, add a new commit, and push changes. 
+
+- If you already created a repo with files and want to add it locally, then just do 
+"git clone [HTTPS link to repo]" to copy it locally. Then you can work within that directory and make changes.
