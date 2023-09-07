@@ -25,5 +25,8 @@ If you need to know whether system is 32- or 64- bit, type "uname -m" in bash
 Back to terminal. Run "git remote add origin [HTTPS link to repo]"
 
 - "git push -u origin master" to push to the repo. Or replace "master" by the name of the branch you created and want to add to the repo.
+You will have to put your github username and password (it may be the token, which is super duper long)
 
 - Boom, done! Visit github to admire your new repo with a file in it. 
+
+- Say you made some changes to the file, and want to add a new version: add it to staging environment, add a new commit, and push changes. 
