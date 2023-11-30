@@ -3,7 +3,7 @@ My solutions to the undergraduate computational physics course (as Teaching Assi
 
 Problem Sets:
 
-1. Plotting/LaTeX intro
+1. Plotting, LaTeX/Git intro
 2. More plotting, matrix multiplication
 3. Matrix multiplication, numerical derivatives
 4. Numerical integration
