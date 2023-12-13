@@ -10,4 +10,5 @@ Problem Sets:
 5. Numerical integration, least-squares fitting
 6. PCA
 7. optimization, logistic regression
-8. Fourier transform
+8. Fourier transform, IVP
+9. Crank Nicolson (PDEs)
