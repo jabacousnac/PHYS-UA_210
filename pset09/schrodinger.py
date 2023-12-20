@@ -28,7 +28,7 @@ def run(T):
     #define quantities:
     L = 1e-8 #m
     m = 9.109e-31 #kg
-    hbar = 1.0546e-36 #Js
+    hbar = 1.0546e-36 #Js #EDIT: this should be 1.054e-34 (will change the plots quantitatively but not qualitatively)
     h = 1e-17 #time step #algorithm is numerically unstable for "large" timesteps
     N = 1000 #total number of steps along x
     a = L / N #spacing
